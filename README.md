@@ -1,6 +1,6 @@
 # Transfer Models
 
-This project explored the trade off between machine learning model performance and fairness and developed bias mitigation techniques via transfer learning. The results of this project was subsequently published in: Gardner, J., Yu, R., Nguyen, Q., Brooks, C., & Kizilcec, R. (2023, June). Cross-Institutional Transfer Learning for Educational Models: Implications for Model Performance, Fairness, and Equity. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (pp. 1664-1684).
+This project explored the trade off between machine learning model performance and fairness and developed bias mitigation techniques via transfer learning. The results of this project was subsequently published in: [Gardner, J., Yu, R., Nguyen, Q., Brooks, C., & Kizilcec, R. (2023, June). Cross-Institutional Transfer Learning for Educational Models: Implications for Model Performance, Fairness, and Equity. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (pp. 1664-1684)](https://arxiv.org/pdf/2305.00927.pdf)
 
 ------
 
